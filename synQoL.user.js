@@ -6,8 +6,8 @@
 // @version	 	0.1
 // @author		Core
 // @license		MIT
-// @updateURL    https://github.com/AFKoncore/synergism-QoL/synQoL.user.js
-// @downloadURL  https://github.com/AFKoncore/synergism-QoL/synQoL.user.js
+// @updateURL    https://raw.githubusercontent.com/AFKoncore/synergism-QoL/refs/heads/main/synQoL.user.js
+// @downloadURL  hhttps://raw.githubusercontent.com/AFKoncore/synergism-QoL/refs/heads/main/synQoL.user.js
 // @description	QoL buttons meant to make Singularities less tedious
 // ==/UserScript==
 
