@@ -3,7 +3,7 @@
 <sub>Mouse over any of the mod's button for a couple seconds to get a tooltip explanation in game.</sub>
 - Open all cubes in one click without changing tab (8 clicks + mouse travel saved every time!)
 - Buy all early singularity 3D-WowCubes with a single button.
-- Ant sacrifice + 'BUY ALL' Talismans shards and fragments without changing tab.
+- Ant sacrifice + 'BUY ALL' Talismans shards and fragments in one click without changing tab.
 
 ### [Install](https://raw.githubusercontent.com/AFKoncore/synergism-QoL/refs/heads/main/synQoL.user.js)
 <sub>Click the link above, you need a browser extension that automatically loads user scripts, such as [Violentmonkey](https://violentmonkey.github.io/get-it/).</sub>
