@@ -1,6 +1,6 @@
 ![mod screenshot](https://github.com/AFKoncore/synergism-QoL/blob/main/demo.png?raw=true)
 ### Adds some QoL buttons to make Singularities less tedious
-Mouse over any of the mod's button for a couple second to get a tooltip explanation in game
+Mouse over any of the mod's button for a couple seconds to get a tooltip explanation in game
 - Open all cubes in one click without changing tab (8 clicks + mouse travel saved every time!)
 - Buy all early singularity 3D-WowCubes with a single button
 - Ant sacrifice + 'BUY ALL' Talismans shards and fragments without changing tab.
