@@ -1,3 +1,5 @@
+<sub>User script mod for the incremental game [Synergism](https://synergism.cc/). Also available on [Steam](https://store.steampowered.com/app/3552310/Synergism/).</sub>
+_______
 ![mod screenshot](https://github.com/AFKoncore/synergism-QoL/blob/main/demo.png?raw=true)
 ### Adds some QoL buttons to make Singularities less tedious
 <sub>Mouse over any of the mod's button for a couple seconds to get a tooltip explanation in game.</sub>
